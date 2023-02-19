@@ -1,0 +1,65 @@
+fieldset
+{
+  width: 60%;
+  text-align: left;
+  margin-left: 20%;
+}
+.first{
+    position: relative;
+    top: 14px;
+}
+.last{
+    position: relative;
+    bottom: 23px;
+    left:200px;
+}
+.Email{
+    position: relative;
+   
+    bottom: 12px;;
+}
+
+span{
+    color: red;
+}
+
+.star
+{
+    color:orange;
+    font-size: 30px;
+}
+
+#tablespace0{
+    position: relative;
+    bottom: 40px;
+}
+
+.tablecolor{
+    background-color: rgb(219, 201, 216);
+  
+ }
+
+table{
+    border-spacing: 20px;
+    border: 15px;
+    border: 5px;
+   
+}
+.t1,.t2{
+ position: relative;
+ align-items: center;
+ left:15px;
+}
+
+
+#add{
+    width: 99%;
+    height: 70px;
+}
+
+
+#add1{
+    height: 30px;
+    width: 70px;
+    font-size:medium;
+}
